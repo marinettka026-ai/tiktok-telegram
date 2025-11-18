@@ -1,2 +1,3 @@
-# tiktok-telegram
-Landing page for TikTok
+tiktok-telegram/
+   ├── index.html   ← має бути тут
+   └── README.md
